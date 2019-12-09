@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto Mono', monospace;
+}
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #fff;
+  background: linear-gradient(to right, rgb(0, 198, 255), rgb(0, 114, 255));
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap')
+
